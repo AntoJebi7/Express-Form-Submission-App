@@ -12,7 +12,7 @@ This is a basic Express.js application that demonstrates how to handle form subm
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/express-form-submission-app.git
+    git clone https://github.com/AntoJebi7/express-form-submission-app.git
     ```
 2. Navigate into the project directory:
     ```bash
@@ -53,6 +53,3 @@ This is a basic Express.js application that demonstrates how to handle form subm
 - [body-parser](https://www.npmjs.com/package/body-parser) - Middleware for parsing incoming request bodies.
 - [morgan](https://www.npmjs.com/package/morgan) - HTTP request logger middleware for Node.js.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
