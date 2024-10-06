@@ -1,5 +1,5 @@
 # Express Form Submission App
-<img src="exp.png" width="1000" height="400">
+<img src="exp.png" width="900" height="300">
 This is a basic Express.js application that demonstrates how to handle form submissions using `body-parser`. The app includes middleware to log request details using `morgan` and serves a static HTML file for form input.
 
 ## Features
